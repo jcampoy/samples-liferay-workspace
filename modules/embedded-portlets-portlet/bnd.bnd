@@ -1,0 +1,4 @@
+Bundle-Name: embedded-portlets
+Bundle-SymbolicName: com.liferay.support.embeddedp
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.support.embeddedp.constants
